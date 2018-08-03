@@ -9,6 +9,7 @@ Gera
 Zorglub
 Naughtius Maximus
 Linuxero
+Yanto
 
 These players use the game red eclipse, website : www.redeclipse.net, including a map editor
 You are of course free to help us making maps or other stuff
